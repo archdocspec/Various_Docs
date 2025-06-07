@@ -7,7 +7,7 @@
 
 ## Решение
 
-![API](https://github.com/archdocspec/Various_Docs/tree/main/Docs/X5/Assets)
+![API](https://github.com/archdocspec/Various_Docs/blob/main/Docs/X5/Assets/skhema-rabota-api_lowres.png)
 
 **API** (**Application** **Programming** **Interface** (*интерфейс программирования приложения*)) — это набор инструменов и правил для организации воздействия между собой отдельных информационных систем, приложений, программ, и сервисов.
 
