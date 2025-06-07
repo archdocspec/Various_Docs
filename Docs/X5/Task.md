@@ -35,7 +35,6 @@
 >[!TIP]
 >Информацию о самом популярном типе API REST можно получить в отдельной статье:
 >[WhatIsRESTAPI](https://github.com/archdocspec/featuredocumentation/blob/main/general_documentation/What_is_REST_API.md "Что такое REST API")
-___
 
 # 2. Улучшить текст
 
