@@ -30,10 +30,12 @@
 
 >[!TIP]
 >Подробнее о различных типах API, их особенностях и применении можно узнать в полной версии стати:
-[WhatIsAPI](https://github.com/archdocspec/featuredocumentation/blob/main/general_documentation/WhatIsAPI.md "Что такое API")
+>
+>[WhatIsAPI](https://github.com/archdocspec/featuredocumentation/blob/main/general_documentation/WhatIsAPI.md "Что такое API")
 
 >[!TIP]
->Информацию о самом популярном типе API REST можно получить в отдельной статье:
+>Информацию о самом популярном типе API - REST API можно получить в отдельной статье:
+>
 >[WhatIsRESTAPI](https://github.com/archdocspec/featuredocumentation/blob/main/general_documentation/What_is_REST_API.md "Что такое REST API")
 
 # 2. Улучшить текст
