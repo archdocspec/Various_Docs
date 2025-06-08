@@ -84,27 +84,8 @@ ___
 >Завтра `(DD:MM::YYYY)`в 9 утра планируется Релиз (такой-то).  
 >В течение пары часов с момента выхода некоторые функции могут быть недоступны или работать некорректно
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
- <head>
-  <title>XHTML Banner</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <style type="text/css">
-    html, body { margin:0; padding:0; width: 240px; height: 400px }
-    body { overflow: hidden }
-    img { display: block }
-  </style>
- </head>
- <body>
-  <div>
-  <a href="{LINK_UNESC}" traget="_blank">
-    <img src="http://kinopark.by/i/squad.jpg" alt="img" />
-  </a>
-  </div>
- </body>
-</html>
-
+https://www.canva.com/create/banners/
+https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md
 ___
 
 # 4. Оценить текст по критериям
